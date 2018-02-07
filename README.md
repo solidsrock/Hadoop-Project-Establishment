@@ -91,6 +91,6 @@ enter browser http://localhost/autocomplete/
 
 the final result show below:
 
-      ![alt](img/auto-complete.png)
+![alt](img/auto-complete.png)
       
       
